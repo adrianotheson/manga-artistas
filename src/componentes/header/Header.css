@@ -1,0 +1,38 @@
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .header {
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  .logo {
+    width: 100px;
+    height: auto;
+  }
+  .lupa {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .imagem {
+    width: 20px;
+    height: 20px;
+  }
+  .itens {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  .item a {
+    text-decoration: none;
+    color: white;
+  }
+
+
