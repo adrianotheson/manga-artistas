@@ -109,7 +109,7 @@ export default function Main() {
             </p>
           </div>
         </div>
-        <h2>
+        <h2 >
           Inspirações para criar o maior manga da minha vida e o mais conhecido
           pelo público
         </h2>
