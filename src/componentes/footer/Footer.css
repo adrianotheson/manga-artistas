@@ -5,8 +5,8 @@ body {
     font-family: Arial, sans-serif;
   }
   .footer {
-    background-color: darkgray;
-    height: 60px;
+    background-color: rgb(63, 58, 58);
+    height: 150px;
     width: 100%;
     display: flex;
     justify-content: center;

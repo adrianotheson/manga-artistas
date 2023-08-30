@@ -6,7 +6,7 @@ body {
   }
   .header {
     background-color: black;
-    height: 40px;
+    height: 88px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -20,6 +20,7 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
+    
   }
   .imagem {
     width: 20px;

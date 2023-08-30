@@ -4,47 +4,52 @@ export default function Main() {
   return (
     <body>
       <div className="main">
-        <h1 className="titulo">Portfólio de Manga do Kentaro Miura</h1>
+        <h1 className="titulo">Portfólio de Manga do Adriano Filho</h1>
         <div className="artista">
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="/adriano.png"
+            alt="Adriano Filho"
           />
 
           <p>
-            Kentarō Miura (三浦 建太郎, Miura Kentarō), nascido em Chiba em 11
-            de julho de 1966 e falecido em 6 de maio de 2021, foi um mangaká
-            japonês renomado. Ele ganhou grande reconhecimento por sua aclamada
-            série de fantasia sombria, intitulada "Berserk", que teve seu início
-            em 1989 e se estendeu até a data do falecimento de Miura em 2021.
+            A Jornada de Adriano Filho" narra a vida fictícia de um jovem
+            apaixonado por mangás desde a infância. Ele decide seguir seu sonho
+            de se tornar um mangaká, ingressando em uma escola de artes para
+            aprimorar suas habilidades. Após anos de dedicação, ele conquista
+            sua primeira publicação e enfrenta desafios como prazos, bloqueio
+            criativo e críticas. Com o tempo, suas histórias originais ganham
+            destaque na indústria, inspirando uma nova geração de artistas. Sua
+            jornada não apenas o leva ao sucesso profissional, mas também o
+            ajuda a crescer como indivíduo, deixando um legado duradouro de
+            criatividade e perseverança.
           </p>
         </div>
         <h2>Projetos Recentes</h2>
         <div className="titulo-manga">
-          <h3>Título: "Berserk"</h3>
+          <h3>Título: Berserk</h3>
 
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="berserk.jpg"
+            alt="berserk"
           />
 
           <p>
             Breve descrição: Berserk (ベルセルク Beruseruku) é uma série de
-            mangá escrita e ilustrada por Kentaro Miura. Situado em um mundo de
+            mangá escrita e ilustrada por Adriano Filho. Situado em um mundo de
             fantasia sombria inspirado na Europa medieval, a história gira em
             torno de Guts, um solitário mercenário, e Griffith, o líder de um
             bando de mercenários chamado de "Bando do Falcão".
           </p>
         </div>
         <div className="titulo-manga">
-          <h3>Título: "Ken e no Michi"</h3>
+          <h3>Título: Ken e no Michi</h3>
 
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="ken e np michi.jpg"
+            alt="ken e np michi"
           />
 
           <p>
@@ -62,25 +67,25 @@ export default function Main() {
 
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="Noa.jpg"
+            alt="Noa"
           />
 
-          <h1>Noa (One-shot)</h1>
+          <h1>Noa</h1>
           <div className="galeria-descricao">
             <p>
-              Legenda: Um dos primeiros trabalhos do famoso mangaka Miura
-              Kentaru. Segue o nosso herói solitário Noah (Noé), em um deserto
+              Legenda: Um dos primeiros trabalhos do famoso mangaka Filho
+              Adriano. Segue o nosso herói solitário Noah (Noé), em um deserto
               pós-apocalíptico.
             </p>
           </div>
 
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="projeto berserk.jpg"
+            alt="projeto berserk"
           />
-          <h1>Noa (One-shot)</h1>
+          <h1>projeto berserk</h1>
           <div className="galeria-descricao">
             <p>
               Legenda: É uma demonstração, mas ele cita o passado dele, as
@@ -93,10 +98,10 @@ export default function Main() {
 
           <img
             className="artista-imagem"
-            src="kentaro-miura.jpg"
-            alt="Kentaro Miura"
+            src="Ourou.jpg"
+            alt="Ourou"
           />
-          <h1>Noa (One-shot)</h1>
+          <h1>Ourou</h1>
           <div className="galeria-descricao">
             <p>
               Legenda: Iba, um vigoroso e jovem historiador, desaparece durante
@@ -109,7 +114,7 @@ export default function Main() {
           pelo público
         </h2>
         <p>
-          As principais influências de Kentarō Miura na criação de "Berserk"
+          As principais influências de Adriano Filho na criação de "Berserk"
           foram três mangás clássicos...
         </p>
       </div>

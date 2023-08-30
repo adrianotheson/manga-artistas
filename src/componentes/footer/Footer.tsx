@@ -9,8 +9,8 @@ export default function Footer() {
           <div className="reso">
             <p>
               Email:{" "}
-              <a className="link" href="mailto:Kentaro.Miuraemail@example.com">
-                Kentaro.Miuraemail@example.com
+              <a className="link" href="mailto:Adriano.Filhoemail@example.com">
+                Adriano.Filhoemail@example.com
               </a>
             </p>
           </div>
@@ -19,10 +19,10 @@ export default function Footer() {
               Instagram:{" "}
               <a
                 className="link"
-                href="https://www.instagram.com/Kentaro.Miura_perfil"
+                href="https://www.instagram.com/Adriano.Filho_perfil"
                 target="_blank"
               >
-                @Kentaro.Miura_perfil
+                @Adriano.Filho_perfil
               </a>
             </p>
           </div>
@@ -31,10 +31,10 @@ export default function Footer() {
               Website:{" "}
               <a
                 className="link"
-                href="http://www.KentaroMangasite.com"
+                href="http://www.AdrianoMangasite.com"
                 target="_blank"
               >
-                www.KentaroMangasite.com
+                www.AdrianoMangasite.com
               </a>
             </p>
           </div>

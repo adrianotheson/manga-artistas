@@ -9,7 +9,7 @@ export default function Header() {
         <div className="lupa">
           <input type="text" placeholder="Pesquisar" />
 
-          <img className="imagem" src="/" alt="Search" />
+          <img className="imagem" src="/lupa.png" alt="Search" />
         </div>
         <ul className="itens">
           <li className="item">
