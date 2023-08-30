@@ -25,7 +25,7 @@ export default function Main() {
             criatividade e perseverança.
           </p>
         </div>
-        <h2>Projetos Recentes</h2>
+        <h2 className="titulo">Projetos Recentes</h2>
         <div className="titulo-manga">
           <h3>Título: Berserk</h3>
 
@@ -63,7 +63,7 @@ export default function Main() {
           </p>
         </div>
         <div className="galeria">
-          <h2>Galeria</h2>
+          <h2 className="titulo">Galeria</h2>
 
           <img
             className="artista-imagem"
@@ -109,11 +109,11 @@ export default function Main() {
             </p>
           </div>
         </div>
-        <h2 >
+        <h2 className="des-fi">
           Inspirações para criar o maior manga da minha vida e o mais conhecido
           pelo público
         </h2>
-        <p>
+        <p className="des-fi">
           As principais influências de Adriano Filho na criação de "Berserk"
           foram três mangás clássicos...
         </p>
